@@ -19,6 +19,7 @@ I'm a high school student from Ho Chi Minh City, studying at High School for the
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with C++ STL for competitve programming and WPF for desktop applications.
+- 🛠 &nbsp; For web apps, I can implement FE with React.
 - 🚀 &nbsp; I’m currently learning Full Stack Development, advance DSA, and training my problem-solving skills.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [my GitHub profile page](https://github.com/MIT4893-Projects).
 - 💻 &nbsp; I have over 500 problems solved on Leetcode and over 500 problems solved on Codeforces.
