@@ -8,6 +8,12 @@ I'm a high school student from Ho Chi Minh City, studying at High School for the
 - 🏅 Consolation Prize (Group B - for secondary students) at Tin hoc tre at Ho Chi Minh city in 2023.
 - 🏅 10th place at FPT Codewars 2021.
 
+## My Coding Workspace
+- 💻 Laptop: Dell Vostro 15 3510
+- ⌨️ Keyboard: Keychron K3 Pro (RGB backlight, non hot-swapable)
+- 💾 OS: Windows 11 and Arch Linux
+- 📝 Editor: NeoVim and Visual Studio Code
+
 ### My GitHub account's stats
 ![](https://raw.githubusercontent.com/MIT4893-Projects/github-stats-copy/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MIT4893-Projects/github-stats-copy/master/generated/languages.svg#gh-dark-mode-only)
