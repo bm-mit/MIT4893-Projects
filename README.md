@@ -9,10 +9,11 @@ I'm a high school student from Ho Chi Minh City, studying at High School for the
 - 🏅 10th place at FPT Codewars 2021.
 
 ## My Coding Workspace
+(Click links for the configurations)
 - 💻 Laptop: Dell Vostro 15 3510
-- ⌨️ Keyboard: Keychron K3 Pro (RGB backlight, non hot-swapable)
-- 💾 OS: Windows 11 and Arch Linux
-- 📝 Editor: NeoVim and Visual Studio Code
+- ⌨️ Keyboard: [Keychron K3 Pro](https://github.com/MIT4893-Projects/Keychron-K3-Pro-QMK)
+- 💾 OS: Windows 11 and [Arch Linux](https://github.com/MIT4893-Projects/Arch-Dotfiles)
+- 📝 Editor: [NeoVim](https://github.com/MIT4893-Projects/Neovim-Dotfiles) and Visual Studio Code
 
 ### My GitHub account's stats
 ![](https://github-readme-stats.vercel.app/api?username=mit4893-projects&show_icons=true&border_radius=20&bg_color=30,008ca8,090979,000000&text_color=dddddd&title_color=ffffff&icon_color=b3f2ff&hide_border=true)
