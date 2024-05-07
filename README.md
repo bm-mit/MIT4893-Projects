@@ -34,17 +34,29 @@ I'm a high school student from Ho Chi Minh City, studying at High School for the
 - 🛠 &nbsp; For web apps, I can implement FE with React.
 - 🚀 &nbsp; I’m currently learning Full Stack Development, advance DSA, and training my problem-solving skills.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [my GitHub profile page](https://github.com/MIT4893-Projects).
-- 💻 &nbsp; I have over 500 problems solved on Leetcode and over 500 problems solved on Codeforces.
+- 💻 &nbsp; I have over 500 problems solved on Leetcode, more than 500 problems solved on Codeforces and it still increasing.
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love learning new algorithm and solve hard coding problems.
 - 🍕 &nbsp; Competitions, meetups & tech events.
 
-### Languages and Tools:
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+### Languages and Technologies:
+- Languages:
+  - Python
+  - JavaScript
+  - TypeScript
+  - C++
+  - C#
+  - HTML & CSS
+- Technologies:
+  - Web:
+    - React
+  - Desktop Application:
+    - .NET MAUI
+    - .NET WPF
+    - .NET WinUI
+  - Machine Learning:
+    - Tensorflow
+    - Pandas
+  
