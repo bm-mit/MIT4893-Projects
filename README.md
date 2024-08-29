@@ -3,6 +3,8 @@
 
 I'm a high school student from Ho Chi Minh City, studying at High School for the Gifted - VNU-HCM (Trường Phổ Thông Năng khiếu - ĐHQG TPHCM). I'm a competitive programmer and a desktop application junior developer.
 
+<a href="https://www.buymeacoffee.com/bm.mit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ### My Competitive Programming Achivements
 - 🥉 Third Prize at HCMOI for ninth grader in 2023.
 - 🏅 Consolation Prize (Group B - for secondary students) at Tin hoc tre at Ho Chi Minh city in 2023.
