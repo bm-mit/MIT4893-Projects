@@ -1,7 +1,7 @@
 ### Hi 👋, I'm [Đoàn Ngọc Bình Minh](https://github.com/bm-mit/)
 ### Glad to see you here!
 
-I'm a high school student from Ho Chi Minh City, studying at High School for the Gifted - VNU-HCM (Trường Phổ Thông Năng khiếu - ĐHQG TPHCM). I'm a competitive programmer and a desktop application junior developer.
+I'm a high school student from Ho Chi Minh City, studying at High School for the Gifted - VNU-HCM (Trường Phổ Thông Năng khiếu - ĐHQG TPHCM). I'm a competitive programmer and a web app junior developer.
 
 <a href="https://www.buymeacoffee.com/bm.mit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
