@@ -13,7 +13,7 @@ I'm a high school student from Ho Chi Minh City, studying at High School for the
 - 💻 Laptop: Dell Vostro 15 3510
 - ⌨️ Keyboard: [Keychron K3 Pro](https://github.com/MIT4893-Projects/Keychron-K3-Pro-QMK)
 - 💾 OS: Windows 11 and [Arch Linux](https://github.com/MIT4893-Projects/Arch-Dotfiles)
-- 📝 Editor: [NeoVim](https://github.com/MIT4893-Projects/Neovim-Dotfiles) and Visual Studio Code
+- 📝 Editor: JetBrains IDE, [NeoVim](https://github.com/MIT4893-Projects/Neovim-Dotfiles) and Visual Studio Code
 
 ### My GitHub account's stats
 (Wakatime stats is calculated from Apr 22nd)
