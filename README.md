@@ -1,4 +1,4 @@
-### Hi 👋, I'm [Đoàn Ngọc Bình Minh](https://github.com/MIT4893-Projects/)
+### Hi 👋, I'm [Đoàn Ngọc Bình Minh](https://github.com/bm-mit/)
 ### Glad to see you here!
 
 I'm a high school student from Ho Chi Minh City, studying at High School for the Gifted - VNU-HCM (Trường Phổ Thông Năng khiếu - ĐHQG TPHCM). I'm a competitive programmer and a desktop application junior developer.
@@ -18,11 +18,11 @@ I'm a high school student from Ho Chi Minh City, studying at High School for the
 ### My GitHub account's stats
 (Wakatime stats is calculated from Apr 22nd)
 
-![](https://github-readme-stats.vercel.app/api?username=mit4893-projects&show_icons=true&border_radius=20&bg_color=30,008ca8,090979,000000&text_color=dddddd&title_color=ffffff&icon_color=b3f2ff&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=bm-mit&show_icons=true&border_radius=20&bg_color=30,008ca8,090979,000000&text_color=dddddd&title_color=ffffff&icon_color=b3f2ff&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=MIT4893Projects&show_icons=true&border_radius=20&bg_color=30,008ca8,090979,000000&text_color=dddddd&title_color=ffffff&icon_color=b3f2ff&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=mit4893-projects&show_icons=true&border_radius=20&bg_color=30,008ca8,090979,000000&text_color=ffffff&title_color=ffffff&icon_color=b3f2ff&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=bm-mit&show_icons=true&border_radius=20&bg_color=30,008ca8,090979,000000&text_color=ffffff&title_color=ffffff&icon_color=b3f2ff&hide_border=true&layout=compact)
 
 ### My Account Links:
 - [Codeforces](https://codeforces.com/profile/Minh4893IT)
