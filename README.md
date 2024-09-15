@@ -17,8 +17,10 @@ I'm a high school student from Ho Chi Minh City, studying at High School for the
 - 💾 OS: Windows 11 and [Arch Linux](https://github.com/MIT4893-Projects/Arch-Dotfiles)
 - 📝 Editor: JetBrains IDE, [NeoVim](https://github.com/MIT4893-Projects/Neovim-Dotfiles) and Visual Studio Code
 
-### My GitHub account's stats
+### My account's stats
 (Wakatime stats is calculated from Apr 22nd)
+
+![](https://leetcard.jacoblin.cool/Minh4893IT?font=Space_Grotesk&ext=contest&border=0&radius=20)
 
 ![](https://github-readme-stats.vercel.app/api?username=bm-mit&show_icons=true&border_radius=20&bg_color=30,008ca8,090979,000000&text_color=dddddd&title_color=ffffff&icon_color=b3f2ff&hide_border=true)
 
