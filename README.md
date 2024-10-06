@@ -20,7 +20,7 @@ I'm a high school student from Ho Chi Minh City, studying at High School for the
 ### My account's stats
 (Wakatime stats is calculated from Apr 22nd)
 
-![](https://leetcard.jacoblin.cool/Minh4893IT?font=Space_Grotesk&ext=contest&border=0&radius=20)
+![](https://leetcard.jacoblin.cool/bm-mit?font=Space_Grotesk&ext=contest&border=0&radius=20)
 
 ![](https://github-readme-stats.vercel.app/api?username=bm-mit&show_icons=true&border_radius=20&bg_color=30,008ca8,090979,000000&text_color=dddddd&title_color=ffffff&icon_color=b3f2ff&hide_border=true)
 
@@ -30,7 +30,7 @@ I'm a high school student from Ho Chi Minh City, studying at High School for the
 
 ### My Account Links:
 - [Codeforces](https://codeforces.com/profile/Minh4893IT)
-- [Leetcode](https://leetcode.com/Minh4893IT/)
+- [Leetcode](https://leetcode.com/bm-mit/)
 
 ### Talking about Personal Stuffs:
 
